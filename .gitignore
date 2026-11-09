@@ -1,0 +1,12 @@
+# Material da aula (terceiros): não publicar
+*.pdf
+
+# Credenciais
+API_key.txt
+*.key
+.env
+
+# Ambiente e cache
+.ipynb_checkpoints/
+__pycache__/
+.venv/
